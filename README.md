@@ -65,16 +65,22 @@ screenshots/
 ├── salary_trends.png
 ├── wfh_degree_analysis.png
 ├── job_trends_2024.png
+## 📸 Dashboard Screenshots
 
-🔹 Overall Data Jobs Dashboard
+### 🔹 Overall Data Jobs Dashboard
+![Overall Data Jobs Dashboard](screenshots/overall_dashboard.png)
 
-🔹 Machine Learning Engineer Dashboard
+### 🔹 Machine Learning Engineer Dashboard
+![Machine Learning Engineer Dashboard](screenshots/drill_through_dashboard.png)
 
-🔹 Salary vs Hourly Pay Analysis
+### 🔹 Salary vs Hourly Pay Analysis
+![Salary vs Hourly Pay Analysis](screenshots/yearly_vs_hourly_trends.png)
 
-🔹 Work From Home & Degree Requirement
+### 🔹Salary Trends in 2024
+![WFH & Degree Analysis](screenshots/salary_trends(2).png)
 
-🔹 Job Trends in 2024
+### 🔹 Job Trends in 2024
+![Job Trends 2024](screenshots/job_trends_2024.png)
 
 📈 Key Insights & Findings
 🔹 1. Job Market Overview
