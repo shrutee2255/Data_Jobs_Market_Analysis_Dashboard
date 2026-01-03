@@ -83,9 +83,9 @@ screenshots/
 ### 🔹 Job Trends in 2024
 ![Job Trends 2024](screenshots/Job_trends.png)
 
-📈 Key Insights & Findings
+**📈 Key Insights & Findings**
 
-🔹 1. Job Market Overview
+**🔹 1. Job Market Overview**
 
 Total Job Postings: ~4.7 lakh
 
