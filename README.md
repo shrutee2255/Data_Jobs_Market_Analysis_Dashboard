@@ -77,7 +77,7 @@ screenshots/
 ![Salary vs Hourly Pay Analysis](screenshots/yearly_vs_hourly_trends.png)
 
 ### 🔹Salary Trends in 2024
-![salary Analysis](screenshots/salary_trends(2).png)
+![salary Analysis](screenshots/salary_trends (2).png)
 
 ### 🔹 Job Trends in 2024
 ![Job Trends 2024](screenshots/Job_trends.png)
@@ -102,33 +102,21 @@ Overall Median Hourly Salary: $48/hr
 
 Highest Paying Roles:
 Job Role	Median Yearly Salary
+
 Senior Data Scientist	~$155K
+
 Machine Learning Engineer	~$155K
+
 Senior Data Engineer	~$147K
+
 Software Engineer	~$145K
+
 Data Engineer	~$125K
 
-👉 Senior and ML roles clearly offer higher compensation.
 
-🔹 3. Machine Learning Engineer Insights
 
-Median Yearly Salary: $155K
 
-Median Hourly Salary: $61/hr
-
-Job Count: ~12.8K postings
-
-WFH Availability:
-
-❌ 82–94% roles are not remote
-
-Degree Mentioned:
-
-❌ 96% job postings do not explicitly mention degree requirements
-
-👉 Skills matter more than degrees for ML roles.
-
-🔹 4. Job Trends in 2024
+🔹 3. Job Trends in 2024
 
 Job postings were strong in early 2024
 
@@ -138,13 +126,13 @@ Slight recovery towards end of the year
 
 📉 This reflects seasonal hiring slowdowns and market corrections.
 
-🔹 5. Work From Home (WFH) Analysis
+🔹 4. Work From Home (WFH) Analysis
 
 Only 13–18% of job postings offer Work From Home
 
 Majority of data roles are still on-site or hybrid
 
-🔹 6. Degree Requirement Analysis
+🔹 5. Degree Requirement Analysis
 
 67% of jobs do NOT mention a degree
 
@@ -152,7 +140,7 @@ Senior roles mention degrees even less frequently
 
 Indicates a shift towards skill-based hiring
 
-🔹 7. Best Platforms for Data Jobs
+🔹 6. Best Platforms for Data Jobs
 
 Top job sources:
 
@@ -166,7 +154,7 @@ Recruit & niche platforms
 
 👉 LinkedIn is the most effective platform for data job searching.
 
-🔹 8. Country-Level Insights
+🔹 7. Country-Level Insights
 
 Higher salaries observed in:
 
