@@ -1,6 +1,6 @@
-📊 Data Jobs Market Analysis Dashboard (2024)
+**📊 Data Jobs Market Analysis Dashboard (2024)**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes global data-related job postings to uncover trends across multiple roles such as:
 
@@ -18,7 +18,7 @@ Senior Data Roles
 
 The dashboard provides insights into job demand, salary trends, work-from-home availability, degree requirements, job types, and hiring platforms using real job posting data.
 
-The goal of this project is to help:
+**The goal of this project is to help:**
 
 Aspiring data professionals understand the job market
 
@@ -26,7 +26,7 @@ Recruiters analyze hiring trends
 
 Analysts showcase data storytelling and dashboarding skills
 
-🛠** Tools & Technologies Used**
+**🛠Tools & Technologies Used**
 
 Power BI – Interactive dashboards & visualizations
 
@@ -36,7 +36,7 @@ Python (Pandas) – Data cleaning & preprocessing
 
 Excel / CSV – Source data format
 
-📂** Dataset Description**
+**📂Dataset Description**
 
 The dataset contains job posting information such as:
 
@@ -95,7 +95,7 @@ Most common job type:
 
 Internships and contract roles form a very small portion of the market.
 
-🔹** 2. Salary Insights**
+🔹 **2. Salary Insights**
 
 Overall Median Yearly Salary: $113K
 
@@ -117,7 +117,7 @@ Data Engineer	~$125K
 
 
 
-🔹** 3. Job Trends in 2024**
+🔹**3. Job Trends in 2024**
 
 Job postings were strong in early 2024
 
@@ -133,7 +133,7 @@ Only 13–18% of job postings offer Work From Home
 
 Majority of data roles are still on-site or hybrid
 
-🔹** 5. Degree Requirement Analysis**
+🔹 **5. Degree Requirement Analysis**
 
 67% of jobs do NOT mention a degree
 
@@ -155,7 +155,7 @@ Recruit & niche platforms
 
 👉 LinkedIn is the most effective platform for data job searching.
 
-🔹** 7. Country-Level Insights**
+🔹 **7. Country-Level Insights**
 
 Higher salaries observed in:
 
@@ -167,7 +167,7 @@ France
 
 India shows high job volume but relatively lower median salary
 
-🎯** Business Questions Answered**
+**🎯 Business Questions Answered**
 
 Which data role pays the most?
 
@@ -181,7 +181,7 @@ Which platforms post the most data jobs?
 
 How did job demand change during 2024?
 
-🚀** How to Use This Project**
+**🚀How to Use This Project**
 
 Clone the repository
 
@@ -199,7 +199,7 @@ Location
 
 Drill through individual job roles for deeper insights
 
-📌** Future Enhancements**
+**📌Future Enhancements**
 
 Add skill-level analysis (Python, SQL, ML, Cloud)
 
