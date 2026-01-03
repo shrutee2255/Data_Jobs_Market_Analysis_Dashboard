@@ -80,9 +80,10 @@ screenshots/
 ![salary Analysis](screenshots/salary_trends(2).png)
 
 ### 🔹 Job Trends in 2024
-![Job Trends 2024](screenshots/job_trends.png)
+![Job Trends 2024](screenshots/Job_trends.png)
 
 📈 Key Insights & Findings
+
 🔹 1. Job Market Overview
 
 Total Job Postings: ~4.7 lakh
