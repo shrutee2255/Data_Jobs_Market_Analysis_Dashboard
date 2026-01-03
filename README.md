@@ -77,10 +77,10 @@ screenshots/
 ![Salary vs Hourly Pay Analysis](screenshots/yearly_vs_hourly_trends.png)
 
 ### 🔹Salary Trends in 2024
-![WFH & Degree Analysis](screenshots/salary_trends(2).png)
+![salary Analysis](screenshots/salary_trends(2).png)
 
 ### 🔹 Job Trends in 2024
-![Job Trends 2024](screenshots/job_trends_2024.png)
+![Job Trends 2024](screenshots/job_trends.png)
 
 📈 Key Insights & Findings
 🔹 1. Job Market Overview
